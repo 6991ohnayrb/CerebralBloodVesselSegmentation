@@ -1,0 +1,4 @@
+./Annotations/*
+./Images/*
+./RetinalScan/*
+*.pyc
