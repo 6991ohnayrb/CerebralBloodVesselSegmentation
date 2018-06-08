@@ -1,4 +1,5 @@
 # CerebralBloodVesselSegmentation
+### Bryan Ho, Kelvin Wong
 
 ## Setup
 Pictures must be placed in the `Images` and `Annotations` directories. Those in the `Image` directory are the raw image scans of brain angiography. Those in the `Annotations` directory are the ones with the contrasted blood vessels. Images in both directories should be in the same order and there must be sufficient data to train. Lack of sufficient training data will yield poor results on the testing data.
